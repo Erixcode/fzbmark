@@ -33,6 +33,9 @@ Usage Examples:
  
     ./fzbmark.py --browser firefox
 
+My personal use case:
+I add this in my dmenu, wofi scripts and enjoy looking up my bookmarks from terminal
+
 Key Features:
 
   --  Auto-detection of Firefox, Chrome, Chromium, and Brave<br>
