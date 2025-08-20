@@ -34,7 +34,7 @@ Usage Examples:
     ./fzbmark.py --browser firefox
 
 My personal use case:
-I add this in my dmenu, wofi scripts and enjoy looking up my bookmarks from terminal
+I add this in my dmenu, wofi and fuzzel scripts and enjoy looking up my bookmarks from there
 
 Key Features:
 
