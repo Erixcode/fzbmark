@@ -16,22 +16,31 @@ Installation and Usage
         Fedora: sudo dnf install fzf
 
 Usage Examples
-bash
 
-# Interactive search with fzf (main use case)
-./fzbmark.py
+ Interactive search with fzf (main use case)
+ 
+    ./fzbmark.py
 
-# List all detected browsers
-./fzbmark.py --list-browsers
+ List all detected browsers
+ 
+    ./fzbmark.py --list-browsers
 
-# List all bookmarks
-./fzbmark.py --list
+ List all bookmarks
+ 
+    ./fzbmark.py --list
 
-# Search for specific term
-./fzbmark.py --search "python"
+ Search for specific term
+ 
+    ./fzbmark.py --search "python"
 
-# Use only Firefox bookmarks
-./fzbmark.py --browser firefox
+ Use only Firefox bookmarks
+ 
+    ./fzbmark.py --browser firefox
+
+Debug mode
+
+    ./fzbmark.py --debug
+    ./fzbmark.py --debug --list-browsers
 
 Key Features
 
