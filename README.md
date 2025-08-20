@@ -37,11 +37,6 @@ Usage Examples
  
     ./fzbmark.py --browser firefox
 
-Debug mode
-
-    ./fzbmark.py --debug
-    ./fzbmark.py --debug --list-browsers
-
 Key Features
 
     Auto-detection of Firefox, Chrome, Chromium, and Brave
